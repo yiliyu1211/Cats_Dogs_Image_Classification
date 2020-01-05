@@ -1,7 +1,7 @@
 # VGG16-image-classification
 
-This project is from kaggle cats vs. dogs competition. 
+This project is from kaggle cats vs. dogs competition, which is about classifying cats and gods images through machine learning methods. 
 
 Dataset is here [link](https://www.kaggle.com/c/dogs-vs-cats/data)
 
-With some adjustments made in VGG-16 nueral network structure, the accuracy score could reach to 0.96
+I made some adjustments in VGG-16 nueral network structure, and enhance the accuracy to 0.967.
