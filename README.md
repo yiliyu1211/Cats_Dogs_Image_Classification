@@ -4,7 +4,7 @@ This project is from kaggle cats vs. dogs competition, which is about classifyin
 
 Detailed descriptions and datasets (including training and testing) are here [link](https://www.kaggle.com/c/dogs-vs-cats/data)
 
-My code is provided. You can try to download my model through h5 format and try it on your own!
+My model is built through kaggle kernel and the code is provided. You can run it and download my model through h5 format, then try it on yourself!
 
 (Fun fact: In my model, human faces are classified to be more similar to dogs' ....)
 
