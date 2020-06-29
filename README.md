@@ -1,4 +1,4 @@
-# Cats_Dogs_VGG16-image-classification
+# Cats_Dogs_Image_Classification
 
 ## Data:
 
