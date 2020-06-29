@@ -17,6 +17,11 @@ Detailed descriptions and datasets (including training and testing) are here [li
 
 Prediction accuracy ~ 0.967.
 
+Kaggle Score
+
+![Imgur](https://imgur.com/HsvVWBG)
+
+
 The model is also included in the repository, download itself and play with it!
 
 (For implementing the model, check the cats_dogs_model_deploymeny notebook)
