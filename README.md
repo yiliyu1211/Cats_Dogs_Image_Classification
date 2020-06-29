@@ -19,7 +19,7 @@ Prediction accuracy ~ 0.967.
 
 Kaggle Score
 
-![Imgur](https://imgur.com/HsvVWBG)
+![Imgur](https://imgur.com/HsvVWBG.jpg)
 
 
 The model is also included in the repository, download itself and play with it!
