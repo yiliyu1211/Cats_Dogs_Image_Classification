@@ -26,7 +26,7 @@ After training the model in Kaggle kernel, you can download them through here:
 ![Imgur](https://storage.googleapis.com/kaggle-forum-message-attachments/492963/11603/Capture.JPG)
 
 
-For implementing the model, check the cats_dogs_model_deploymeny notebook
+For implementing the model, check the [cats_dogs_model_deploymeny notebook](https://github.com/yiliyu1211/Cats_Dogs_Image_Classification/blob/master/cats_dogs_%20model_deployment.ipynb)
 
 ![Imgur](https://i.imgur.com/WFZdmpU.jpg)
 
