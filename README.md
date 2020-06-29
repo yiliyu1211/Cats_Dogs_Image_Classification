@@ -18,7 +18,7 @@ Detailed descriptions and datasets (including training and testing) are here [li
 Prediction accuracy ~ 0.967.
 
 The model is also included in the repository, download itself and play with it!
-
+(For implementing the model, check the cats_dogs_model_deploymeny notebook)
 
 
 ![Imgur](https://i.imgur.com/WFZdmpU.jpg)
