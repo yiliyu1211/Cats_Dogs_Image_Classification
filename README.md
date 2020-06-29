@@ -21,11 +21,12 @@ Kaggle Score(within top 5%)
 
 ![Imgur](https://imgur.com/HsvVWBG.jpg)
 
+After training the model in Kaggle kernel, you can download them through here:
 
-The model is also included in the repository, download itself and play with it!
+![Imgur](https://storage.googleapis.com/kaggle-forum-message-attachments/492963/11603/Capture.JPG)
 
-(For implementing the model, check the cats_dogs_model_deploymeny notebook)
 
+For implementing the model, check the cats_dogs_model_deploymeny notebook
 
 ![Imgur](https://i.imgur.com/WFZdmpU.jpg)
 
