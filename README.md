@@ -28,6 +28,9 @@ After training the model in Kaggle kernel, you can download them through here:
 
 For implementing the model, check the [cats_dogs_model_deploymeny notebook](https://github.com/yiliyu1211/Cats_Dogs_Image_Classification/blob/master/cats_dogs_%20model_deployment.ipynb)
 
+
+My little lion:
+
 ![Imgur](https://i.imgur.com/WFZdmpU.jpg)
 
 
