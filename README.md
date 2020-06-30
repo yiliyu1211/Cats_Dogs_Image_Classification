@@ -17,7 +17,7 @@ Detailed descriptions and datasets (including training and testing) are here [li
 
 Prediction accuracy ~ 0.967.
 
-Kaggle Score(within top 5%)
+Kaggle Score(within top 2%)
 
 ![Imgur](https://imgur.com/HsvVWBG.jpg)
 
