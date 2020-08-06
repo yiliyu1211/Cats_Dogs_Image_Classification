@@ -8,7 +8,7 @@ Detailed descriptions and datasets (including training and testing) are here [li
 
 ## Approach 
 
--- Model: VGG16 pretrained model 
+-- Model: Transfer learning through VGG16 pre-trained model 
 
 -- Enviornment: Training in Kaggle Kernel
 
