@@ -151,13 +151,6 @@ def predict(model, test_generator, test_size, batch_szie=100):
     return predict
 
 
-# train data path
-path = "../input/dogs-vs-cats/train/train/"
-
-
-# test data path
-test_path = "../input/dogs-vs-cats/test1/test1"
-
 
 # main
 def main(path, test_path):
@@ -197,8 +190,16 @@ def main(path, test_path):
 
 
 
+# train data path
+path = "../input/dogs-vs-cats/train/train/"
+
+
+# test data path
+test_path = "../input/dogs-vs-cats/test1/test1"
+
+
 if __name__ == "__main__":
-    main()
+    main(path, test_path)
     
 
 
